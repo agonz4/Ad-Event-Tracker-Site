@@ -1,5 +1,5 @@
 # Ad-Event-Tracker-Site
-Developed a site that serces as an inventory/promotional sale system for commericial retails stores. Users can add Items to the database as well as promotions and Ad Events. 
+Developed a site that serves as an inventory/promotional sale system for commericial retails stores. Users can add Items to the database as well as promotions and Ad Events. 
 
 Example:
 4th of July Sale(Ad Event) -> 50% meats (Promotion) -> Hot Dogs (item) Steak (Item) Brisket (Item)
